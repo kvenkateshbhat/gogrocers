@@ -1,0 +1,4 @@
+->Open the website
+->Go to phpmyadmin and import the producttb file inside the producttb table 
+->Refresh the webpage
+->The website is ready to use
