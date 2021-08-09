@@ -11,10 +11,10 @@ class CreateDB{
 
     
     public function __construct(
-        $tablename = "Productdb",
-        $dbname = "gocart",
-        $servername = "localhost",
-        $username = "root",
+        $tablename = "",
+        $dbname = "",
+        $servername = "",
+        $username = "",
         $password = ""
     )
     {
